@@ -18,6 +18,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatorochaal&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
+  <h3>Tentando sempre superar meus limites...</h3>
+
 ##
   
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" title="Java" height="30" width="40"/>
