@@ -10,6 +10,8 @@
 <a href="https://www.instagram.com/renattoalcantara/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=lat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="mailto:rrochaalcantara@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Gmail-808080?style=lat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
 
+##
+
 <div align="center">
   <a href="https://github.com/renatorochaal">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renatorochaal&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
