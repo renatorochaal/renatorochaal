@@ -25,3 +25,4 @@
   <img align="center" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt "Python" title="Python" height="30" width="40"/>
   <img align="center" src= "https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" alt "Android" title="Android" height="30" width="40"/>
   
+![Snake animation](https://github.com/renatorochaal/renatorochaal/blob/output/github-contribution-grid-snake.svg)
