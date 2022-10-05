@@ -11,13 +11,14 @@
 <a href="mailto:rrochaalcantara@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Gmail-808080?style=lat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
 
 ##
-
+<div style="display: inline_block"><br>
 <div align="center">
   <a href="https://github.com/renatorochaal">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renatorochaal&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=renatorochaal&layout=compact&langs_count=15&theme=tokyonight" />
 </div>
-  
+    <div>
+<br>
   <h3>Tentando sempre superar meus limites...</h3>
 
 ##
