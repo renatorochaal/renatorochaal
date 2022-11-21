@@ -13,8 +13,8 @@
 ##
 <div style="display: inline_block" align="center">
   <a href="https://github.com/renatorochaal">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renatorochaal&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=renatorochaal&layout=compact&langs_count=15&theme=tokyonight" />
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=renatorochaal&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs?username=renatorochaal&layout=compact&langs_count=15&theme=tokyonight" />
 </div>
 
   <h3>Tentando sempre superar meus limites...</h3>
