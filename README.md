@@ -1,5 +1,5 @@
 ### Ola seu Renato Russo 👋
-- 
+- Desenvolvedor Júnior
 - 🔭 Atualmente cursando Análise e Desenvolvimento de Sistemas - PUCGO
 - 🌱 Estudando sobre desenvolvimento de Aplicativos e Software
 
@@ -9,7 +9,8 @@
 <a href="https://www.linkedin.com/in/renatorochaal" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=lat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href
 ="https://www.instagram.com/renattoalcantara/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=lat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="mailto:rrochaalcantara@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Gmail-808080?style=lat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
+<a href="mailto:rrochaalcantara@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Gmail-808080?style=lat-square
+&logo=gmail&logoColor=white" alt="Gmail"></a>
 
 ##
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=renatorochaal&layout=compact&show_icons=true&hide_border=true&theme=tokyonight&langs_count=10) 
