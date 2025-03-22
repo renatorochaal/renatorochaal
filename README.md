@@ -1,6 +1,6 @@
 ### Ola seu Renato Russo 👋
 - Desenvolvedor Júnior
-- 🔭 Atualmente cursando Análise e Desenvolvimento de Sistemas - PUCGO
+- 🔭 Formado em Análise e Desenvolvimento de Sistemas - PUCGO
 - 🌱 Estudando sobre desenvolvimento de Aplicativos e Software
 
 <!-- Badges session -->
